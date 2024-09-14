@@ -2,7 +2,23 @@
 
 using namespace std;
 
+// Divide & Conquer
+/// Recursively
+    /// 1.Divide
+    /// 2.Conquer
+    /// 3.Combine
 
+/// Analysis
+// k = last level
+// k + 1 = Count of Levels
+// n => input
+// n = 4 ==> k = 2
+// n = 8 ==> k = 3
+// n = 16==> k = 4
+
+/// k = log2(n)
+
+///f(n) = O( n log(n) ) as n => infinity
 
 void Merge(int array[] ,  int start ,int mid , int end)
 {
