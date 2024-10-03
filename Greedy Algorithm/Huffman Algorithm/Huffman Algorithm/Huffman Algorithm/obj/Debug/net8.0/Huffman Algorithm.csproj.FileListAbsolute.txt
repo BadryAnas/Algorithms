@@ -1,0 +1,15 @@
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\bin\Debug\net8.0\Huffman Algorithm.exe
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\bin\Debug\net8.0\Huffman Algorithm.deps.json
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\bin\Debug\net8.0\Huffman Algorithm.runtimeconfig.json
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\bin\Debug\net8.0\Huffman Algorithm.dll
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\bin\Debug\net8.0\Huffman Algorithm.pdb
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.AssemblyInfoInputs.cache
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.AssemblyInfo.cs
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.csproj.CoreCompileInputs.cache
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.sourcelink.json
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.dll
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\refint\Huffman Algorithm.dll
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.pdb
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\Huffman Algorithm.genruntimeconfig.cache
+E:\Algorithms\Greedy Algorithm\Huffman Algorithm\Huffman Algorithm\Huffman Algorithm\obj\Debug\net8.0\ref\Huffman Algorithm.dll
