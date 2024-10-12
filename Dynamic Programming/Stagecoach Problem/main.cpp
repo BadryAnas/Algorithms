@@ -5,7 +5,9 @@ int main()
 {
 
     vector<char> labels = {'A' , 'B' , 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
+
     int n = labels.size() ;
+
     int data [n][n] = {
                         {0, 2, 4, 3, 0, 0, 0, 0, 0, 0},
                         {0, 0, 0, 0, 7, 4, 6, 0, 0, 0},
@@ -18,7 +20,9 @@ int main()
                         {0, 0, 0, 0, 0, 0, 0, 0, 0, 4},
                         {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
                     };
+
     vector<pair<int , char >> costs( n ); /// Cost , Parent
+
     vector< char > path;
 
     costs[n-1].first = 0 ;

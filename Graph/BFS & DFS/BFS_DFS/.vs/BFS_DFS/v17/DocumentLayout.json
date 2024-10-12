@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Algorithms\\Graph\\BFS \u0026 DFS\\BFS_DFS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDF214F-B396-4B39-9B4D-C47331DB4CE5}|BFS_DFS\\BFS_DFS.csproj|e:\\algorithms\\graph\\bfs \u0026 dfs\\bfs_dfs\\bfs_dfs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDF214F-B396-4B39-9B4D-C47331DB4CE5}|BFS_DFS\\BFS_DFS.csproj|solutionrelative:bfs_dfs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Algorithms\\Graph\\BFS \u0026 DFS\\BFS_DFS\\BFS_DFS\\Program.cs",
+              "RelativeDocumentMoniker": "BFS_DFS\\Program.cs",
+              "ToolTip": "E:\\Algorithms\\Graph\\BFS \u0026 DFS\\BFS_DFS\\BFS_DFS\\Program.cs",
+              "RelativeToolTip": "BFS_DFS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:26:22.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
